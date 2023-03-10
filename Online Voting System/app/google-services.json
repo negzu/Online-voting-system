@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "253471837603",
+    "project_id": "online-voting-system-18d0c",
+    "storage_bucket": "online-voting-system-18d0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253471837603:android:10813715651c53b487de16",
+        "android_client_info": {
+          "package_name": "com.onlie.voting.onlinevotingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253471837603-a9inqc79r6iijmth3v8t82tlolj9vtha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgGqUBCQ88TBz1z5xxVXxuEXMy45q4ebg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253471837603-a9inqc79r6iijmth3v8t82tlolj9vtha.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

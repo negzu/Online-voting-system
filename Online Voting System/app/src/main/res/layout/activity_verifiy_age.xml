@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/backg"
+    tools:context=".VerifiyId">
+
+    <EditText
+        android:id="@+id/idproof"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/verifyagebutton"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="51dp"
+        android:background="@drawable/input_design"
+        android:hint="Enter You ID.."
+        android:padding="20dp" />
+
+    <Button
+        android:id="@+id/verifyagebutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginBottom="365dp"
+        android:background="@drawable/buttons"
+        android:padding="20dp"
+        android:text="Submit"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>
